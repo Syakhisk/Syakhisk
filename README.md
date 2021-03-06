@@ -1,4 +1,13 @@
-### Hi there 👋
+<!--### Hi there 👋 -->
+
+<div align="center">
+
+[<img src="https://i.ibb.co/vJfv42h/image.png" width="400">](https://github.com/Syakhisk)
+<br/><br/>
+## Syakhisk Al-Azmi
+### Mamank
+</div>
+
 
 <!--
 **Syakhisk/Syakhisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
