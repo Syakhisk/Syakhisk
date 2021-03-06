@@ -1,11 +1,13 @@
 <div align="center">
 	<img src="https://i.ibb.co/vJfv42h/image.png" width="500">
 </div>
-<h1 align="center">Syakhisk Al-Azmi </h1>
+<h1 align="center">🔥Syakhisk Al-Azmi🔥</h1>
 <h6 align="center">Also intimately goes by <b>MamanK</b></h6>
 <p>Honestly, I'm a lazy person. <b>BUT</b> I would build a bot or something to do the ~<i>mundane</i>~ and ~<i>boring</i>~ stuff 😈. I'd rather spend my time to learn new things, reading article, and think about what I wanna build next!</p>
 
 <p>I know I said that I'm lazy but when it comes to coding though, I would spend nights <s>(as all devs should be)</s> to achieve my objective. For me, learning is like breathing [cue the angelic sfx 👼]. </p>
+
+<!-- 🔭 I’m currently working on --> 
 
 ### Languages and Tools
 
@@ -35,6 +37,7 @@
 </div>
 </td>
 <td>
+	<br/>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syakhisk&show_icons=true&locale=en&layout=compact" alt="syakhisk" /></p>
 </td>
 </tr>
