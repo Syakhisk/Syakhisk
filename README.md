@@ -13,7 +13,7 @@
 - [Efkolia - Study Companion](https://efkolia.sakis.me)
 - [JokiPresensi - Automation tools for my university attendance](https://absen.sakis.me)
 
-🔭 **I’m currently working on:**
+🔭 **I’m currently working on:**<br>
 Wordpress website for a client - developing it with [Sage](https://roots.io/sage) 
 
 ### Languages and Tools
