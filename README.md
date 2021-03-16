@@ -1,3 +1,4 @@
+
 <div align="center">
 	<img src="https://i.ibb.co/vJfv42h/image.png" width="500">
 </div>
@@ -7,7 +8,13 @@
 
 <p>I know I said that I'm lazy but when it comes to coding though, I would spend nights <s>(as all devs should be)</s> to achieve my objective. For me, learning is like breathing [cue the angelic sfx 👼]. </p>
 
-<!-- 🔭 I’m currently working on --> 
+🛸**Check out my personal projects!**
+- [SpaceX Showcase](https://spacex-data-showcase.vercel.app)
+- [Efkolia - Study Companion](https://efkolia.sakis.me)
+- [JokiPresensi - Automation tools for my university attendance](https://absen.sakis.me)
+
+🔭 **I’m currently working on:**
+Wordpress website for a client - developing it with [Sage](https://roots.io/sage) 
 
 ### Languages and Tools
 
@@ -39,7 +46,7 @@
 </div>
 </td>
 <td>
-	<br/>
+<br/>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syakhisk&show_icons=true&locale=en&layout=compact" alt="syakhisk" /></p>
 </td>
 </tr>
