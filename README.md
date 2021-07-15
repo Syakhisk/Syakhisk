@@ -4,9 +4,6 @@
 </div>
 <h1 align="center">🔥Syakhisk Al-Azmi🔥</h1>
 <h6 align="center">Also intimately goes by <b>MamanK</b></h6>
-<p>Honestly, I'm a lazy person. <b>BUT</b> I would build a bot or something to do the ~<i>mundane</i>~ and ~<i>boring</i>~ stuff 😈. I'd rather spend my time to learn new things, reading article, and think about what I wanna build next!</p>
-
-<p>I know I said that I'm lazy but when it comes to coding though, I would spend nights <s>(as all devs should be)</s> to achieve my objective. For me, learning is like breathing [cue the angelic sfx 👼]. </p>
 
 🛸**Check out my personal projects!**
 - [SpaceX Showcase](https://spacex-data-showcase.vercel.app)
