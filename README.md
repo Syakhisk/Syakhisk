@@ -2,16 +2,16 @@
 <div align="center">
 	<img src="https://i.ibb.co/vJfv42h/image.png" width="500">
 </div>
-<h1 align="center">🔥Syakhisk Al-Azmi🔥</h1>
-<h6 align="center">Also intimately goes by <b>MamanK</b></h6>
+<h1 align="center"Syakhisk Al-Azm</h1>
+<h6 align="center">Also intimately goes by <b>m42nk</b></h6>
 
 🛸**Check out my personal projects!**
 - [SpaceX Showcase](https://spacex-data-showcase.vercel.app)
 - [Efkolia - Study Companion](https://efkolia.sakis.me)
 - [JokiPresensi - Automation tools for my university attendance](https://absen.sakis.me)
 
-🔭 **I’m currently working on:**<br>
-Wordpress website for a client - developing it with [Sage](https://roots.io/sage) 
+🛸**Check out the project I did/contributed in**
+- [Kanopi FEB UI](https://kanopi-febui.com)
 
 ### Languages and Tools
 
