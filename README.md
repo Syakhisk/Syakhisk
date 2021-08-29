@@ -12,6 +12,7 @@
 
 🛸**Check out the project I did/contributed in**
 - [Kanopi FEB UI](https://kanopi-febui.com)
+- [Indonesia Economic Outlook 2021](https://ieo-febui.com)
 
 ### Languages and Tools
 
