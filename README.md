@@ -4,6 +4,7 @@
 </div>
 <h1 align="center"Syakhisk Al-Azm</h1>
 <h6 align="center">Also intimately goes by <b>m42nk</b></h6>
+<h6 align="center">arch, btw</h6>
 
 🛸**Check out my personal projects!**
 - [SpaceX Showcase](https://spacex-data-showcase.vercel.app)
