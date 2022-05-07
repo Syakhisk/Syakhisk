@@ -7,6 +7,7 @@
 <h6 align="center">arch, btw :wq</h6>
 
 🛸**I'm Starting a blog!**
+
 I believe in Learning-in-Public so I started a blog at [al-az.me](https://al-az.me).
 I'm also currently building a team of developers and designer to handle projects, [if you're interested](https://al-az.me/wanted).
 
