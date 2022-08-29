@@ -14,8 +14,9 @@ I'm also currently building a team of developers and designer to handle projects
 
 🛸**Check out my personal projects!**
 - [SpaceX Showcase](https://spacex-data-showcase.vercel.app)
-- [Efkolia - Study Companion](https://efkolia.sakis.me)
-- [JokiPresensi - Automation tools for my university attendance](https://absen.sakis.me)
+- [Landing Page](https://landing-page-sakis.vercel.app) (WIP)
+- [Efkolia - Study Companion](https://efkolia.sakis.me) (inactive)
+- [JokiPresensi - Automation tools for my university attendance](https://absen.sakis.me) (inactive)
 
 🛸**Check out the project I did/contributed in**
 - [Kanopi FEB UI](https://kanopi-febui.com)
