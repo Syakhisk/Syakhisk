@@ -13,7 +13,7 @@
 I believe in Learning-in-Public so I started a blog at [al-az.me](https://al-az.me).
 
 🛸**Check out my personal projects!**
-- [Selfhosted Serverless](https://github.com/syakhisk/proxmox-minikube-knative) (Final Project for My College Degree)
+- [Serverless Implementation using Kubernetes & Knative](https://github.com/syakhisk/proxmox-minikube-knative) (Final Project for My College Degree)
 - [SpaceX Showcase](https://spacex-data-showcase.vercel.app)
 - [Landing Page](https://landing-page-sakis.vercel.app) (WIP)
 - [Efkolia - Study Companion](https://efkolia.sakis.me) (inactive)
