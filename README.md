@@ -2,9 +2,9 @@
 <div align="center">
 	<img src="https://i.ibb.co/vJfv42h/image.png" width="500">
 </div>
-<h1 align="center"Syakhisk Al-Azm</h1>
+<h1 align="center"Syakhisk Al-Azmi</h1>
 <h6 align="center">
-<a href="https://linkedin.com/syakhisk">LinkedIn</a>
+<a href="https://linkedin.com/in/syakhisk">LinkedIn</a>
 </h6>
 <h6 align="center">arch, btw :wq</h6>
 
